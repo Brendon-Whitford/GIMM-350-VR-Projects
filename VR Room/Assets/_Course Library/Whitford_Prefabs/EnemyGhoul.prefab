@@ -1785,8 +1785,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   gameManager: {fileID: 0}
-  enemyDeath: {fileID: 8300000, guid: 967fe363653e7524c93600c6ca4d3457, type: 3}
-  explosionParticle: {fileID: 19821056, guid: 85b6dbebd1e7a734186206bbcf61c18e, type: 3}
+  enemyDeath: {fileID: 8300000, guid: 69201432f3a76664b823937479f0ca4e, type: 3}
+  explosionParticle: {fileID: 4758139293545943008, guid: f550755485c09a54e921ba59cac7d116,
+    type: 3}
 --- !u!65 &-2006359224315510397
 BoxCollider:
   m_ObjectHideFlags: 0
